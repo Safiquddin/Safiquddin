@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apanigrahi166" alt="apanigrahi166" /></a> </p>
 
-- 🔭 I’m currently working on Ansible Automation(https://docs.ansible.com/)
+- 🔭 I’m currently working on [Ansible Automation](https://docs.ansible.com/)
 
 - 🌱 I’m currently learning **Python,AWS,Kubernetes & Terraform**
 
