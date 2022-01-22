@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Safiquddin&label=Profile%20views&color=0e75b6&style=flat" alt="Safiquddin" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apanigrahi166" alt="apanigrahi166" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Safiquddin" alt="Safiquddin" /></a> </p>
 
 - 🔭 I’m currently working on [Ansible Automation](https://docs.ansible.com/)
 
