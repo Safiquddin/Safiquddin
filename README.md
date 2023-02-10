@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Safiquddin" alt="Safiquddin" /></a> </p>
 
-- 🔭 I’m currently working on [Ansible Automation](https://docs.ansible.com/)
+- 🔭 I’m currently Working on [Terraform Automation](https://registry.terraform.io/providers/hashicorp/aws/latest)
 
 - 🌱 I’m currently learning **Python,AWS,Kubernetes & Terraform**
 
@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [linkedin.com/safiquddin-khan-73157150](https://www.linkedin.com/in/safiquddin-khan-73157150/)
 
-- 💬 Ask me about **AWS,Jenkins,Docker and Ansible**
+- 💬 Ask me about **AWS, Jenkins, Docker and Ansible**
 
 - 📫 How to reach me **safiquddinkha@gmail.com**
 
