@@ -9,9 +9,7 @@
 
 - 🌱 I’m currently learning **Python,AWS,Kubernetes & Terraform**
 
-- 👨‍💻 All of my projects are available at [linkedin.com/safiquddin-khan-73157150](https://www.linkedin.com/in/safiquddin-khan-73157150/)
-
-- 📝 I regularly write articles on [linkedin.com/safiquddin-khan-73157150](https://www.linkedin.com/in/safiquddin-khan-73157150/)
+- 👨‍💻 All of my projects are available at [github.com/Safiquddin](https://github.com/Safiquddin)
 
 - 💬 Ask me about **DevOps, Bollywood & Technology**
 
