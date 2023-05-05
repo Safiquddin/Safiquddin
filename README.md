@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently Working on [Terraform Automation](https://registry.terraform.io/providers/hashicorp/aws/latest)
 
-- 🌱 I’m currently learning **Python,AWS,Kubernetes & Terraform**
+- 🌱 I’m currently learning **Python, AWS, Kubernetes & Terraform**
 
 - 👨‍💻 All of my projects are available at [github.com/Safiquddin](https://github.com/Safiquddin)
 
