@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Safiquddin&label=Profile%20views&color=0e75b6&style=flat" alt="Safiquddin" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Safiquddin" alt="Safiquddin" /></a> </p>
 
 - 🔭 I’m currently Working on [Terraform Automation](https://registry.terraform.io/providers/hashicorp/aws/latest)
 
@@ -14,9 +13,9 @@
 
 - 📝 I regularly write articles on [linkedin.com/safiquddin-khan-73157150](https://www.linkedin.com/in/safiquddin-khan-73157150/)
 
-- 💬 Ask me about **AWS, Jenkins, Docker and Ansible**
+- 💬 Ask me about **DevOps, Bollywood & Technology**
 
-- 📫 How to reach me **safiquddinkha@gmail.com**
+- 📫 You can reach me at **safiquddinkha@gmail.com**
 
 - 📄 Know about my experiences [linkedin.com/safiquddin-khan-73157150](https://www.linkedin.com/in/safiquddin-khan-73157150/)
 
@@ -49,7 +48,11 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Safiquddin"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Safiquddin" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Safiquddin&show_icons=true&locale=en&layout=compact" alt="apanigrahi166" /></p>
+<h3 align="left">Safiq's GitHub activity stats:</h3>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Safiquddin&&theme=tokyonight" alt="Safiquddin" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Safiquddin&show_icons=true&locale=en&layout=compact" alt="Safiquddin" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Safiquddin&show_icons=true&locale=en" alt="Safiquddin" /></p>
 
