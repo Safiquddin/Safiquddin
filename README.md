@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [linkedin.com/safiquddin-khan-73157150](https://www.linkedin.com/in/safiquddin-khan-73157150/)
 
-- ⚡ Fun fact **sleep,eat,code,repeat**
+- ⚡ Fun fact **Power naps is a booster for me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
