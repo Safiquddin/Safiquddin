@@ -40,7 +40,6 @@ icons/bash/bash-original.svg
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="python" width="40" height="40" style="max-width: 100%;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original-wordmark.svg" alt="python" width="40" height="40" style="max-width: 100%;">
-100%;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg" alt="python" width="40" height="40" style="max-width: 100%;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original-wordmark.svg" alt="python" width="40" height="40" style="max-width: 100%;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="python" width="40" height="40" style="max-width: 100%;">
