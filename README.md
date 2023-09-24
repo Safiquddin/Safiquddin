@@ -24,7 +24,7 @@
 <a href="https://www.linkedin.com/in/safiquddin-khan-73157150/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/safiquddin-khan-73157150/" height="30" width="40" /></a>
 </p>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="safiquddin-khan-73157150" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/safiquddin-khan-73157150?trk=profile-badge">Safiquddin Khan</a></div>
-icons/bash/bash-original.svg
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" style="max-width: 100%;">
