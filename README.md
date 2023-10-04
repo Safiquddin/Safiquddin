@@ -16,7 +16,6 @@
 - 📫 You can reach me at **safiquddinkha@gmail.com**
 
 - 📄 Know about my experiences [linkedin.com/safiquddin-khan-73157150](https://www.linkedin.com/in/safiquddin-khan-73157150/)
-  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 - ⚡ Fun fact **Power naps is a booster for me**
 
