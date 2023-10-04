@@ -15,7 +15,7 @@
 
 - 📫 You can reach me at **safiquddinkha@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/safiquddinkhan](www.linkedin.com/in/safiquddinkhan)
+- 📄 Know about my experiences [linkedin.com/safiquddinkhan](https://www.linkedin.com/in/safiquddinkhan)
   <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="safiquddinkhan78" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/safiquddinkhan78?trk=profile-badge">Safiquddin Khan</a></div>
 
 - ⚡ Fun fact **Power naps is a booster for me**
