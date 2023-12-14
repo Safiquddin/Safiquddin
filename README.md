@@ -4,12 +4,12 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Safiquddin&label=Profile%20views&color=0e75b6&style=flat)
 
 - 🔭 I’m currently working on Gitlab CICD, Powershell & Ansible.
-- 🌱 I’m currently learning Python, AWS, Azure Kubernetes & Terraform
+- 🌱 I’m currently learning Python, AWS, Azure , Kubernetes & Terraform
 - 👨‍💻 All of my projects are also available at [Personal GitHub](https://github.com/Safiqkhan)
 - 💬 Ask me about DevOps, Bollywood & Technology
 - 📫 You can reach me at [safiquddinkha@gmail.com](mailto:safiquddinkha@gmail.com)
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/safiqkhan/details/experience/)
-- ⚡ Fun fact: Power naps are a booster for me
+- ⚡ Fun fact: Automation is the lifeline.
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
