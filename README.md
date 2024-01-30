@@ -6,6 +6,7 @@
 - 🔭 I’m currently working on Gitlab CICD, Powershell & Ansible.
 - 🌱 I’m currently learning Azure Cloud.
 - 👨‍💻 All of my projects are also available at [Personal GitHub](https://github.com/Safiqkhan)
+- 🏆 All of my Chapter Certifications available at [skillsoft](https://skillsoft.digitalbadges.skillsoft.com/profile/safiquddinkhan920255/wallet))
 - 💬 Ask me about DevOps, Bollywood & Technology
 - 📫 You can reach me at [safiquddinkha@gmail.com](mailto:safiquddinkha@gmail.com)
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/safiqkhan/details/experience/)
