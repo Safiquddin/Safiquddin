@@ -3,12 +3,12 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Safiquddin&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🔭 I’m currently working on GitOps, Kubernetes, and Terraform with Bitbucket.
-- 🌱 On the journey to achieve AWS Solutions Architect Associate certification.
+- 🔭 I’m currently working on GitOps, Kubernetes, and Terraform with Bitbucket CICD.
+- 🌱 Pursuing AWS Solutions Architect Associate and Kubernetes Administrator certifications.
 - 📜 Certified as a Terraform Associate, Az-900, and Az-400.
 - 👨‍💻 Explore my projects on [Personal GitHub](https://github.com/Safiqkhan)
 - 🏆 Chapter Certifications displayed on [skillsoft](https://www.credential.net/profile/safiquddin/wallet)
-- 💬 Let's discuss DevOps, Bollywood, and all things Tech.
+- 💬 Let's chat DevOps, Bollywood, and all things Tech.
 - 📫 Contact me at [safiquddinkha@gmail.com](mailto:safiquddinkha@gmail.com)
 - 📄 Explore my professional journey on [LinkedIn](https://www.linkedin.com/in/safiqkhan/details/experience/)
 - ⚡ Fun fact: Automation is the lifeline.
