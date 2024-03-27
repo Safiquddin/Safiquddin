@@ -3,13 +3,14 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Safiquddin&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🔭 I’m currently working on Gitlab CICD, Powershell & Ansible.
-- 🌱 I’m currently learning Azure Cloud.
-- 👨‍💻 All of my projects are also available at [Personal GitHub](https://github.com/Safiqkhan)
-- 🏆 All of my Chapter Certifications available at [skillsoft](https://www.credential.net/profile/safiquddin/wallet)
-- 💬 Ask me about DevOps, Bollywood & Technology
-- 📫 You can reach me at [safiquddinkha@gmail.com](mailto:safiquddinkha@gmail.com)
-- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/safiqkhan/details/experience/)
+- 🔭 I’m currently working on GitOps, Kubernetes, and Terraform with Bitbucket.
+- 🌱 On the journey to achieve AWS Solutions Architect Associate certification.
+- 📜 Certified as a Terraform Associate, Az-900, and Az-400.
+- 👨‍💻 Explore my projects on [Personal GitHub](https://github.com/Safiqkhan)
+- 🏆 Chapter Certifications displayed on [skillsoft](https://www.credential.net/profile/safiquddin/wallet)
+- 💬 Let's discuss DevOps, Bollywood, and all things Tech.
+- 📫 Contact me at [safiquddinkha@gmail.com](mailto:safiquddinkha@gmail.com)
+- 📄 Explore my professional journey on [LinkedIn](https://www.linkedin.com/in/safiqkhan/details/experience/)
 - ⚡ Fun fact: Automation is the lifeline.
 
 <h3 align="left">Connect with me:</h3>
