@@ -5,7 +5,8 @@
 
 - 🔭 I’m currently working on GitOps, Kubernetes, and Terraform with Bitbucket CICD.
 - 🌱 Pursuing AWS Solutions Architect Associate and Kubernetes Administrator certifications.
-- 📜 Certified as a Terraform Associate, Az-900, and Az-400.
+- 📜 Certified as a Terraform Associate, Az-900, and Az-400, AWS-SAA.
+- 🎖️ Check out my badges here: [Credly Profile](https://www.credly.com/users/safiquddin)
 - 👨‍💻 Explore my projects on [Personal GitHub](https://github.com/Safiqkhan)
 - 🏆 Chapter Certifications displayed on [skillsoft](https://www.credential.net/profile/safiquddin/wallet)
 - 💬 Let's chat DevOps, Bollywood, and all things Tech.
